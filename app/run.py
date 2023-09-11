@@ -1,5 +1,7 @@
 
 
+#Add an empty line
+
 from grades import Grades
 from grade_weights import GradeWeights
 from grade_calculator import GradeCalculator
